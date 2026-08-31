@@ -1,0 +1,17 @@
+MODEL_V5 PERFORMANCE GUIDE
+
+Primary checkpoint metric:
+  val_semantic_foreground_miou
+  Higher is better. It ignores background and averages IoU over classes 1..4.
+
+Important supporting metrics:
+  val_semantic_iou_*       Per-class semantic IoU; higher is better.
+  val_boundary_boundary_f1 Boundary separation F1; higher is better.
+  val_loss                 Total validation loss; lower is better.
+
+Interpret train versus validation:
+  Both improve              Healthy learning.
+  Train improves, val falls Overfitting.
+  Neither improves          Underfitting, data, label, or optimization issue.
+  Pixel accuracy high but foreground IoU low
+                             Background dominance is hiding poor detection.

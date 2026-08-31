@@ -1,0 +1,7 @@
+{
+  "epochs_completed": 71,
+  "final_epoch": 357,
+  "primary_metric": "val_semantic_foreground_miou",
+  "best_epoch": 297,
+  "best_validation_foreground_miou": 0.8414962291717529
+}

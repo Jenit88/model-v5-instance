@@ -1,0 +1,146 @@
+{
+  "model": "Model_v5_PCB_Instance",
+  "training": "from_scratch",
+  "dataset_root": "/home/u117134c/Data_preprocessing/45000 images/Split_Data",
+  "array_dir": "/home/u117134c/Data_preprocessing/45000 images/Split_Data/instance_npy_512",
+  "image_size": 512,
+  "classes": {
+    "0": "background",
+    "1": "Rectangle",
+    "2": "Rectangle_concave",
+    "3": "circle",
+    "4": "circle_full"
+  },
+  "batch_size": 2,
+  "gradient_accumulation_steps_requested": 2,
+  "epochs": 400,
+  "learning_rate": 0.0003,
+  "minimum_learning_rate": 1e-06,
+  "warmup_epochs": 8,
+  "early_stopping_start_epoch": 95,
+  "early_stopping_patience": 60,
+  "weight_decay": 0.0001,
+  "use_ema_requested": true,
+  "ema_momentum": 0.999,
+  "mixed_precision": true,
+  "performance_reporting": {
+    "live_dashboard_every_epoch": true,
+    "dashboard_snapshot_every_n_epochs": 10,
+    "tensorboard_directory": "/home/u117134c/Models/Model_v5_instance/tensorboard",
+    "validation_preview_every_n_epochs": 10,
+    "per_class_iou_metrics": true,
+    "final_evaluation_after_training": true,
+    "final_evaluation_split": "val"
+  },
+  "online_augmentation": {
+    "enabled": true,
+    "stored_augmented_files": 0,
+    "cycle_length_epochs": 95,
+    "original_modes": 1,
+    "exact_pure_rotation_modes": 45,
+    "realistic_variant_modes": 49,
+    "augmented_modes": 94,
+    "exact_rotation_degrees": {
+      "minimum": 2,
+      "maximum": 90,
+      "step": 2,
+      "angles": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60,
+        62,
+        64,
+        66,
+        68,
+        70,
+        72,
+        74,
+        76,
+        78,
+        80,
+        82,
+        84,
+        86,
+        88,
+        90
+      ],
+      "direction": "positive angles exactly as supplied",
+      "guarantee": "every image receives every angle once per cycle",
+      "background": "zoom-to-fill; no black corners"
+    },
+    "realistic_variant_rotation_degrees": {
+      "minimum": 2,
+      "maximum": 90,
+      "step": 2,
+      "both_directions": true
+    },
+    "brightness_limit": 0.1,
+    "contrast_limit": 0.1,
+    "gamma_range": [
+      0.9,
+      1.1
+    ],
+    "exposure_gain_range": [
+      0.95,
+      1.05
+    ],
+    "extra_zoom_range": [
+      1.06,
+      1.12
+    ],
+    "maximum_translation_fraction": 0.04,
+    "noise_standard_deviation_range": [
+      0.005,
+      0.02
+    ],
+    "hue_shift_degrees": 3.0,
+    "saturation_gain_range": [
+      0.92,
+      1.08
+    ],
+    "validation_augmented": false,
+    "test_augmented": false
+  },
+  "class_weights": [
+    1.0,
+    2.817345380783081,
+    5.969374179840088,
+    4.685945987701416,
+    3.713176727294922
+  ],
+  "loss_weights": {
+    "semantic": 1.0,
+    "center": 1.0,
+    "offset": 1.5,
+    "boundary": 0.4
+  },
+  "seed": 42,
+  "tensorflow_version": "2.21.0"
+}

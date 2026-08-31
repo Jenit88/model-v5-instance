@@ -1,0 +1,55 @@
+{
+  "model": "/home/u117134c/Models/Model_v5_instance/best_model_v5_instance.keras",
+  "split": "val",
+  "images_evaluated": 864,
+  "iou_threshold": 0.5,
+  "overall": {
+    "tp": 34898,
+    "fp": 6244,
+    "fn": 1830,
+    "precision": 0.8482329492975548,
+    "recall": 0.9501742539751689,
+    "f1": 0.8963143701040196
+  },
+  "per_class": {
+    "Rectangle": {
+      "tp": 5700,
+      "fp": 1804,
+      "fn": 344,
+      "precision": 0.759594882729211,
+      "recall": 0.9430840502978161,
+      "f1": 0.8414526129317981
+    },
+    "Rectangle_concave": {
+      "tp": 248,
+      "fp": 211,
+      "fn": 12,
+      "precision": 0.5403050108932462,
+      "recall": 0.9538461538461539,
+      "f1": 0.6898470097357441
+    },
+    "circle": {
+      "tp": 6187,
+      "fp": 996,
+      "fn": 209,
+      "precision": 0.8613392732841432,
+      "recall": 0.9673233270794246,
+      "f1": 0.9112600338758378
+    },
+    "circle_full": {
+      "tp": 22763,
+      "fp": 3233,
+      "fn": 1265,
+      "precision": 0.8756347130327743,
+      "recall": 0.9473530880639254,
+      "f1": 0.9100831600831601
+    }
+  },
+  "decoder_thresholds": {
+    "semantic_confidence": 0.3,
+    "center_confidence": 0.12,
+    "center_nms_radius": 4,
+    "max_assignment_distance": 61,
+    "minimum_instance_area": 13
+  }
+}

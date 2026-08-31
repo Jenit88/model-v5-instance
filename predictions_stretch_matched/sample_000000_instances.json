@@ -1,0 +1,221 @@
+{
+  "source": "/home/u117134c/Data_preprocessing/45000 images/Split_Data/images/test/sample_000000.png",
+  "model": "/home/u117134c/Models/Model_v5_instance/best_model_v5_instance.keras",
+  "preprocessing": "direct 512x512 stretch matching instance_npy_512",
+  "original_size": {
+    "width": 1024,
+    "height": 1536
+  },
+  "inference_ms_excluding_file_io": 1159.8916380025912,
+  "number_of_instances": 15,
+  "instances_per_class": {
+    "Rectangle": 3,
+    "Rectangle_concave": 0,
+    "circle": 9,
+    "circle_full": 3
+  },
+  "decoder_thresholds": {
+    "semantic_confidence": 0.3,
+    "center_confidence": 0.12,
+    "center_nms_radius": 4,
+    "maximum_assignment_distance": 61,
+    "minimum_instance_area_at_512": 13
+  },
+  "instances": [
+    {
+      "instance_id": 1,
+      "class_id": 1,
+      "class_name": "Rectangle",
+      "confidence": 0.9781838059425354,
+      "area_pixels": 11466,
+      "bbox_xyxy": [
+        636,
+        930,
+        753,
+        1058
+      ]
+    },
+    {
+      "instance_id": 2,
+      "class_id": 1,
+      "class_name": "Rectangle",
+      "confidence": 0.9746851325035095,
+      "area_pixels": 11496,
+      "bbox_xyxy": [
+        886,
+        453,
+        1001,
+        578
+      ]
+    },
+    {
+      "instance_id": 3,
+      "class_id": 1,
+      "class_name": "Rectangle",
+      "confidence": 0.9768670797348022,
+      "area_pixels": 11286,
+      "bbox_xyxy": [
+        660,
+        771,
+        777,
+        896
+      ]
+    },
+    {
+      "instance_id": 4,
+      "class_id": 3,
+      "class_name": "circle",
+      "confidence": 0.980583131313324,
+      "area_pixels": 36546,
+      "bbox_xyxy": [
+        464,
+        282,
+        673,
+        503
+      ]
+    },
+    {
+      "instance_id": 5,
+      "class_id": 3,
+      "class_name": "circle",
+      "confidence": 0.9802238345146179,
+      "area_pixels": 42474,
+      "bbox_xyxy": [
+        110,
+        822,
+        371,
+        1022
+      ]
+    },
+    {
+      "instance_id": 6,
+      "class_id": 3,
+      "class_name": "circle",
+      "confidence": 0.9797856211662292,
+      "area_pixels": 35796,
+      "bbox_xyxy": [
+        404,
+        663,
+        617,
+        878
+      ]
+    },
+    {
+      "instance_id": 7,
+      "class_id": 3,
+      "class_name": "circle",
+      "confidence": 0.97804194688797,
+      "area_pixels": 36774,
+      "bbox_xyxy": [
+        180,
+        441,
+        411,
+        638
+      ]
+    },
+    {
+      "instance_id": 8,
+      "class_id": 3,
+      "class_name": "circle",
+      "confidence": 0.9777979254722595,
+      "area_pixels": 38202,
+      "bbox_xyxy": [
+        202,
+        252,
+        435,
+        452
+      ]
+    },
+    {
+      "instance_id": 9,
+      "class_id": 3,
+      "class_name": "circle",
+      "confidence": 0.9781845211982727,
+      "area_pixels": 40584,
+      "bbox_xyxy": [
+        144,
+        627,
+        387,
+        830
+      ]
+    },
+    {
+      "instance_id": 10,
+      "class_id": 3,
+      "class_name": "circle",
+      "confidence": 0.9776282906532288,
+      "area_pixels": 20622,
+      "bbox_xyxy": [
+        526,
+        0,
+        733,
+        122
+      ]
+    },
+    {
+      "instance_id": 11,
+      "class_id": 3,
+      "class_name": "circle",
+      "confidence": 0.9734309315681458,
+      "area_pixels": 37950,
+      "bbox_xyxy": [
+        238,
+        66,
+        479,
+        263
+      ]
+    },
+    {
+      "instance_id": 12,
+      "class_id": 3,
+      "class_name": "circle",
+      "confidence": 0.9657598733901978,
+      "area_pixels": 12900,
+      "bbox_xyxy": [
+        276,
+        0,
+        501,
+        74
+      ]
+    },
+    {
+      "instance_id": 13,
+      "class_id": 4,
+      "class_name": "circle_full",
+      "confidence": 0.9806824922561646,
+      "area_pixels": 7338,
+      "bbox_xyxy": [
+        568,
+        1185,
+        661,
+        1286
+      ]
+    },
+    {
+      "instance_id": 14,
+      "class_id": 4,
+      "class_name": "circle_full",
+      "confidence": 0.9867496490478516,
+      "area_pixels": 15198,
+      "bbox_xyxy": [
+        930,
+        1332,
+        1023,
+        1535
+      ]
+    },
+    {
+      "instance_id": 15,
+      "class_id": 4,
+      "class_name": "circle_full",
+      "confidence": 0.9879361987113953,
+      "area_pixels": 26436,
+      "bbox_xyxy": [
+        824,
+        906,
+        1019,
+        1076
+      ]
+    }
+  ]
+}

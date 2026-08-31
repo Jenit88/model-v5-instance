@@ -1,0 +1,572 @@
+[
+  {
+    "mode": 0,
+    "group": "original",
+    "angle_degrees": null,
+    "description": "original"
+  },
+  {
+    "mode": 1,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 2.0,
+    "description": "exact pure rotation +2 degrees"
+  },
+  {
+    "mode": 2,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 4.0,
+    "description": "exact pure rotation +4 degrees"
+  },
+  {
+    "mode": 3,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 6.0,
+    "description": "exact pure rotation +6 degrees"
+  },
+  {
+    "mode": 4,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 8.0,
+    "description": "exact pure rotation +8 degrees"
+  },
+  {
+    "mode": 5,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 10.0,
+    "description": "exact pure rotation +10 degrees"
+  },
+  {
+    "mode": 6,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 12.0,
+    "description": "exact pure rotation +12 degrees"
+  },
+  {
+    "mode": 7,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 14.0,
+    "description": "exact pure rotation +14 degrees"
+  },
+  {
+    "mode": 8,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 16.0,
+    "description": "exact pure rotation +16 degrees"
+  },
+  {
+    "mode": 9,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 18.0,
+    "description": "exact pure rotation +18 degrees"
+  },
+  {
+    "mode": 10,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 20.0,
+    "description": "exact pure rotation +20 degrees"
+  },
+  {
+    "mode": 11,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 22.0,
+    "description": "exact pure rotation +22 degrees"
+  },
+  {
+    "mode": 12,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 24.0,
+    "description": "exact pure rotation +24 degrees"
+  },
+  {
+    "mode": 13,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 26.0,
+    "description": "exact pure rotation +26 degrees"
+  },
+  {
+    "mode": 14,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 28.0,
+    "description": "exact pure rotation +28 degrees"
+  },
+  {
+    "mode": 15,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 30.0,
+    "description": "exact pure rotation +30 degrees"
+  },
+  {
+    "mode": 16,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 32.0,
+    "description": "exact pure rotation +32 degrees"
+  },
+  {
+    "mode": 17,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 34.0,
+    "description": "exact pure rotation +34 degrees"
+  },
+  {
+    "mode": 18,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 36.0,
+    "description": "exact pure rotation +36 degrees"
+  },
+  {
+    "mode": 19,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 38.0,
+    "description": "exact pure rotation +38 degrees"
+  },
+  {
+    "mode": 20,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 40.0,
+    "description": "exact pure rotation +40 degrees"
+  },
+  {
+    "mode": 21,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 42.0,
+    "description": "exact pure rotation +42 degrees"
+  },
+  {
+    "mode": 22,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 44.0,
+    "description": "exact pure rotation +44 degrees"
+  },
+  {
+    "mode": 23,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 46.0,
+    "description": "exact pure rotation +46 degrees"
+  },
+  {
+    "mode": 24,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 48.0,
+    "description": "exact pure rotation +48 degrees"
+  },
+  {
+    "mode": 25,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 50.0,
+    "description": "exact pure rotation +50 degrees"
+  },
+  {
+    "mode": 26,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 52.0,
+    "description": "exact pure rotation +52 degrees"
+  },
+  {
+    "mode": 27,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 54.0,
+    "description": "exact pure rotation +54 degrees"
+  },
+  {
+    "mode": 28,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 56.0,
+    "description": "exact pure rotation +56 degrees"
+  },
+  {
+    "mode": 29,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 58.0,
+    "description": "exact pure rotation +58 degrees"
+  },
+  {
+    "mode": 30,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 60.0,
+    "description": "exact pure rotation +60 degrees"
+  },
+  {
+    "mode": 31,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 62.0,
+    "description": "exact pure rotation +62 degrees"
+  },
+  {
+    "mode": 32,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 64.0,
+    "description": "exact pure rotation +64 degrees"
+  },
+  {
+    "mode": 33,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 66.0,
+    "description": "exact pure rotation +66 degrees"
+  },
+  {
+    "mode": 34,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 68.0,
+    "description": "exact pure rotation +68 degrees"
+  },
+  {
+    "mode": 35,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 70.0,
+    "description": "exact pure rotation +70 degrees"
+  },
+  {
+    "mode": 36,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 72.0,
+    "description": "exact pure rotation +72 degrees"
+  },
+  {
+    "mode": 37,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 74.0,
+    "description": "exact pure rotation +74 degrees"
+  },
+  {
+    "mode": 38,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 76.0,
+    "description": "exact pure rotation +76 degrees"
+  },
+  {
+    "mode": 39,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 78.0,
+    "description": "exact pure rotation +78 degrees"
+  },
+  {
+    "mode": 40,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 80.0,
+    "description": "exact pure rotation +80 degrees"
+  },
+  {
+    "mode": 41,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 82.0,
+    "description": "exact pure rotation +82 degrees"
+  },
+  {
+    "mode": 42,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 84.0,
+    "description": "exact pure rotation +84 degrees"
+  },
+  {
+    "mode": 43,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 86.0,
+    "description": "exact pure rotation +86 degrees"
+  },
+  {
+    "mode": 44,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 88.0,
+    "description": "exact pure rotation +88 degrees"
+  },
+  {
+    "mode": 45,
+    "group": "exact_pure_rotation",
+    "angle_degrees": 90.0,
+    "description": "exact pure rotation +90 degrees"
+  },
+  {
+    "mode": 46,
+    "group": "realistic_variant",
+    "angle_degrees": -8.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 47,
+    "group": "realistic_variant",
+    "angle_degrees": -30.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 48,
+    "group": "realistic_variant",
+    "angle_degrees": -90.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 49,
+    "group": "realistic_variant",
+    "angle_degrees": 24.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 50,
+    "group": "realistic_variant",
+    "angle_degrees": 44.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 51,
+    "group": "realistic_variant",
+    "angle_degrees": -38.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 52,
+    "group": "realistic_variant",
+    "angle_degrees": 8.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 53,
+    "group": "realistic_variant",
+    "angle_degrees": 16.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 54,
+    "group": "realistic_variant",
+    "angle_degrees": -20.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 55,
+    "group": "realistic_variant",
+    "angle_degrees": 66.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 56,
+    "group": "realistic_variant",
+    "angle_degrees": -42.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 57,
+    "group": "realistic_variant",
+    "angle_degrees": -72.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 58,
+    "group": "realistic_variant",
+    "angle_degrees": 70.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 59,
+    "group": "realistic_variant",
+    "angle_degrees": -6.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 60,
+    "group": "realistic_variant",
+    "angle_degrees": 2.0,
+    "description": "rotation"
+  },
+  {
+    "mode": 61,
+    "group": "realistic_variant",
+    "angle_degrees": -76.0,
+    "description": "rotation + brightness/contrast"
+  },
+  {
+    "mode": 62,
+    "group": "realistic_variant",
+    "angle_degrees": 50.0,
+    "description": "rotation + brightness/contrast"
+  },
+  {
+    "mode": 63,
+    "group": "realistic_variant",
+    "angle_degrees": -76.0,
+    "description": "rotation + brightness/contrast"
+  },
+  {
+    "mode": 64,
+    "group": "realistic_variant",
+    "angle_degrees": 66.0,
+    "description": "rotation + brightness/contrast"
+  },
+  {
+    "mode": 65,
+    "group": "realistic_variant",
+    "angle_degrees": 80.0,
+    "description": "rotation + brightness/contrast"
+  },
+  {
+    "mode": 66,
+    "group": "realistic_variant",
+    "angle_degrees": -46.0,
+    "description": "rotation + brightness/contrast"
+  },
+  {
+    "mode": 67,
+    "group": "realistic_variant",
+    "angle_degrees": 30.0,
+    "description": "rotation + brightness/contrast"
+  },
+  {
+    "mode": 68,
+    "group": "realistic_variant",
+    "angle_degrees": 90.0,
+    "description": "rotation + brightness/contrast"
+  },
+  {
+    "mode": 69,
+    "group": "realistic_variant",
+    "angle_degrees": -86.0,
+    "description": "rotation + gamma/exposure"
+  },
+  {
+    "mode": 70,
+    "group": "realistic_variant",
+    "angle_degrees": -82.0,
+    "description": "rotation + gamma/exposure"
+  },
+  {
+    "mode": 71,
+    "group": "realistic_variant",
+    "angle_degrees": 34.0,
+    "description": "rotation + gamma/exposure"
+  },
+  {
+    "mode": 72,
+    "group": "realistic_variant",
+    "angle_degrees": -64.0,
+    "description": "rotation + gamma/exposure"
+  },
+  {
+    "mode": 73,
+    "group": "realistic_variant",
+    "angle_degrees": 64.0,
+    "description": "rotation + gamma/exposure"
+  },
+  {
+    "mode": 74,
+    "group": "realistic_variant",
+    "angle_degrees": 12.0,
+    "description": "rotation + gamma/exposure"
+  },
+  {
+    "mode": 75,
+    "group": "realistic_variant",
+    "angle_degrees": 70.0,
+    "description": "rotation + zoom/translation"
+  },
+  {
+    "mode": 76,
+    "group": "realistic_variant",
+    "angle_degrees": 46.0,
+    "description": "rotation + zoom/translation"
+  },
+  {
+    "mode": 77,
+    "group": "realistic_variant",
+    "angle_degrees": 34.0,
+    "description": "rotation + zoom/translation"
+  },
+  {
+    "mode": 78,
+    "group": "realistic_variant",
+    "angle_degrees": 58.0,
+    "description": "rotation + zoom/translation"
+  },
+  {
+    "mode": 79,
+    "group": "realistic_variant",
+    "angle_degrees": 18.0,
+    "description": "rotation + zoom/translation"
+  },
+  {
+    "mode": 80,
+    "group": "realistic_variant",
+    "angle_degrees": -28.0,
+    "description": "rotation + zoom/translation"
+  },
+  {
+    "mode": 81,
+    "group": "realistic_variant",
+    "angle_degrees": 14.0,
+    "description": "rotation + blur/sharpen"
+  },
+  {
+    "mode": 82,
+    "group": "realistic_variant",
+    "angle_degrees": -74.0,
+    "description": "rotation + blur/sharpen"
+  },
+  {
+    "mode": 83,
+    "group": "realistic_variant",
+    "angle_degrees": 84.0,
+    "description": "rotation + blur/sharpen"
+  },
+  {
+    "mode": 84,
+    "group": "realistic_variant",
+    "angle_degrees": -46.0,
+    "description": "rotation + blur/sharpen"
+  },
+  {
+    "mode": 85,
+    "group": "realistic_variant",
+    "angle_degrees": -82.0,
+    "description": "rotation + blur/sharpen"
+  },
+  {
+    "mode": 86,
+    "group": "realistic_variant",
+    "angle_degrees": -78.0,
+    "description": "rotation + camera noise"
+  },
+  {
+    "mode": 87,
+    "group": "realistic_variant",
+    "angle_degrees": 36.0,
+    "description": "rotation + camera noise"
+  },
+  {
+    "mode": 88,
+    "group": "realistic_variant",
+    "angle_degrees": 90.0,
+    "description": "rotation + camera noise"
+  },
+  {
+    "mode": 89,
+    "group": "realistic_variant",
+    "angle_degrees": 56.0,
+    "description": "rotation + camera noise"
+  },
+  {
+    "mode": 90,
+    "group": "realistic_variant",
+    "angle_degrees": -56.0,
+    "description": "rotation + colour variation"
+  },
+  {
+    "mode": 91,
+    "group": "realistic_variant",
+    "angle_degrees": -28.0,
+    "description": "rotation + colour variation"
+  },
+  {
+    "mode": 92,
+    "group": "realistic_variant",
+    "angle_degrees": -74.0,
+    "description": "rotation + colour variation"
+  },
+  {
+    "mode": 93,
+    "group": "realistic_variant",
+    "angle_degrees": 24.0,
+    "description": "combined realistic augmentation"
+  },
+  {
+    "mode": 94,
+    "group": "realistic_variant",
+    "angle_degrees": 48.0,
+    "description": "combined realistic augmentation"
+  }
+]

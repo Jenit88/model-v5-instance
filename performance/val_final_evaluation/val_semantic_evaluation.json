@@ -1,0 +1,92 @@
+{
+  "overall_pixel_accuracy": 0.9704623531412195,
+  "mean_iou_including_background": 0.8664809950667678,
+  "foreground_mean_iou": 0.8414897802588339,
+  "per_class": {
+    "background": {
+      "class_id": 0,
+      "support_pixels": 178151022,
+      "predicted_pixels": 179215057,
+      "iou": 0.9664458542985035,
+      "precision": 0.9800187101466592,
+      "recall": 0.9858720260386719,
+      "f1_dice": 0.9829366541528974
+    },
+    "Rectangle": {
+      "class_id": 1,
+      "support_pixels": 15751874,
+      "predicted_pixels": 14685934,
+      "iou": 0.8433204103875558,
+      "precision": 0.9482079246713215,
+      "recall": 0.8840420511235679,
+      "f1_dice": 0.9150014350573472
+    },
+    "Rectangle_concave": {
+      "class_id": 2,
+      "support_pixels": 3086322,
+      "predicted_pixels": 3690706,
+      "iou": 0.7703691532278605,
+      "precision": 0.7990333014875745,
+      "recall": 0.955505290763569,
+      "f1_dice": 0.8702921103468955
+    },
+    "circle": {
+      "class_id": 3,
+      "support_pixels": 15714184,
+      "predicted_pixels": 15656445,
+      "iou": 0.8948172803387868,
+      "precision": 0.9462308333724546,
+      "recall": 0.9427540749172849,
+      "f1_dice": 0.9444892545826862
+    },
+    "circle_full": {
+      "class_id": 4,
+      "support_pixels": 13789014,
+      "predicted_pixels": 13244274,
+      "iou": 0.8574522770811328,
+      "precision": 0.942243191284022,
+      "recall": 0.9050195322160091,
+      "f1_dice": 0.923256320133903
+    }
+  },
+  "confusion_matrix_rows_true_columns_predicted": [
+    [
+      175634109,
+      612599,
+      618024,
+      729550,
+      556740
+    ],
+    [
+      1565189,
+      13925319,
+      123057,
+      5806,
+      132503
+    ],
+    [
+      69175,
+      10435,
+      2948997,
+      33486,
+      24229
+    ],
+    [
+      833618,
+      13852,
+      628,
+      14814611,
+      51475
+    ],
+    [
+      1112966,
+      123729,
+      0,
+      72992,
+      12479327
+    ]
+  ],
+  "model": "/home/u117134c/Models/Model_v5_instance/best_model_v5_instance.keras",
+  "split": "val",
+  "images_evaluated": 864
+}

@@ -1,0 +1,12 @@
+{
+  "model": "/home/u117134c/Models/Model_v5_instance/best_model_v5_instance.keras",
+  "prediction_source": "/home/u117134c/Data_preprocessing/45000 images/Split_Data/images/test",
+  "output_directory": "/home/u117134c/Models/Model_v5_instance/predictions_stretch_matched",
+  "preprocessing": "direct 512x512 stretch matching Model_v5 training arrays",
+  "images_found": 1,
+  "images_succeeded": 1,
+  "images_failed": 0,
+  "total_instances": 15,
+  "total_wall_time_seconds": 1.9639013379928656,
+  "failures": []
+}

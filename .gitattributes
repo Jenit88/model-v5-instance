@@ -1,0 +1,9 @@
+*.keras filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.onnx filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+*.npz filter=lfs diff=lfs merge=lfs -text
+fit_backup_recovery_20260828_0822/latest.weights.h5 filter=lfs diff=lfs merge=lfs -text
+best_model_v5_instance.keras filter=lfs diff=lfs merge=lfs -text
+best_model_v5_instance_before_disconnect.keras filter=lfs diff=lfs merge=lfs -text
